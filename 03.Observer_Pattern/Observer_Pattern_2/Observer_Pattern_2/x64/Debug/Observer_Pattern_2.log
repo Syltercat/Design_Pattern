@@ -1,0 +1,3 @@
+﻿  Observer.cpp
+C:\Users\gaeun\OneDrive\바탕 화면\쥬신\개인\Design_Pattern\03.Observer_Pattern\Observer_Pattern_2\Observer_Pattern_2\Observer.cpp(129,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Observer_Pattern_2.vcxproj -> C:\Users\gaeun\OneDrive\바탕 화면\쥬신\개인\Design_Pattern\03.Observer_Pattern\Observer_Pattern_2\x64\Debug\Observer_Pattern_2.exe
