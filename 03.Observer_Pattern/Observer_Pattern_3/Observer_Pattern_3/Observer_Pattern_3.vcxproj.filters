@@ -13,5 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\01. compare">
+      <UniqueIdentifier>{318ed363-fd25-4d08-8771-ba728cf219c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02. notify_optimization">
+      <UniqueIdentifier>{0556e88d-3f04-4c21-8b64-2610fc073d17}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="original_book_store.cpp">
+      <Filter>소스 파일\01. compare</Filter>
+    </ClCompile>
+    <ClCompile Include="observer_book_store.cpp">
+      <Filter>소스 파일\01. compare</Filter>
+    </ClCompile>
+    <ClCompile Include="notify_optimization.cpp">
+      <Filter>소스 파일\02. notify_optimization</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
